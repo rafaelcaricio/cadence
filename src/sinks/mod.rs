@@ -9,6 +9,7 @@
 // except according to those terms.
 
 mod core;
+mod non_blocking;
 mod queuing;
 mod udp;
 
